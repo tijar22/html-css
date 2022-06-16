@@ -1,0 +1,12 @@
+body{padding: 20px ; background-color: cadetblue;}
+header{
+	padding: 50px;
+	background-color: aliceblue;
+	border-radius: 5px;
+	margin: 10px 0px;
+}
+div{}
+.container{padding: 10px;background-color: darkred;overflow: hidden;}
+.conatact{min-height: 150px;background-color: #46b47a;float: left;width: 50%;}
+.blog{min-height: 150px;background-color: cornsilk;float: right;width: 50%;}
+footer{min-height: 200px;background-color: burlywood;margin: 30px 0px;border-radius: 5px;}
